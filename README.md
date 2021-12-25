@@ -1,1 +1,2 @@
 # SORTING-VISUALIZER
+Sorting is one of the most frequently used algorithm in Computer Science. It is also used in various daily real life scenarios. Sorting algorithms are very frequently asked in IT job interviews. But understanding the working and time complexities of different sorting algorithms is a difficult task. This is why I built a "Sorting Visualizer" which helps you to visualize how different sorting algorithms work and compare their performance and time complexities.
